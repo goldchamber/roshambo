@@ -15,7 +15,7 @@ int main()
 	int choice; 
 	int const compChoice = computerChoice();
 
-	std::cout << "Welcome to Tic Tac Toe\n";
+	std::cout << "Welcome to Rock Paper Scissors\n";
 	std::cout << "What will you choose?\n\n";
 	do {
 		std::cout << "\n1 - Rock\n";
